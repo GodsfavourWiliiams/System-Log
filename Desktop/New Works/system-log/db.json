@@ -1,0 +1,24 @@
+{
+    "logs": [{
+            "id": 1,
+            "message": "Changed server 203 and added variables for all requests in it.",
+            "attention": false,
+            "date": "03-03-2022",
+            "tech": "Williams Godsfavour"
+        }, {
+            "id": 2,
+            "message": "Changed server 03 and and a collection of requests",
+            "attention": false,
+            "date": "23-02-2022",
+            "tech": "Emmanuel Okon"
+        },
+        {
+            "id": 3,
+            "message": "Changed server 10 and and made it easy to set common authorization, tests, scripts.",
+            "attention": true,
+            "date": "03-05-2022",
+            "tech": "Israel Amanam"
+        }
+    ]
+
+}
